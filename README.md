@@ -1,5 +1,5 @@
 # Dokumentasi
-Website ini merupakan _project_ mata kuliah Pemrograman Web yang dikerjakan oleh Irfan dan [KA](https://github.com/k-ardliyan).
+Website ini merupakan _project_ mata kuliah Pemrograman Web yang dikerjakan oleh [Irfan](https://github.com/DevonTM) dan [KA](https://github.com/k-ardliyan).
 
 Untuk fitur reset password perlu menginstall Composer kemudian menginstall PHPMailer dengan Composer tersebut.  
 Berikut contoh username dan password:
